@@ -1,0 +1,42 @@
+{
+	"name": "Kin_Jitsu Rise of the Dark Shinobi",
+	"short_name": "Kin_Jitsu Rise of the Dark Shinobi",
+	"description": "Plonge dans un roguelike nerveux, inspiré de l’intensité rétro de Ghosts ’n Goblins, où chaque combat est un test de réflexes, de stratégie… et de survie.\nTu incarnes le dernier shinobi du Dragon des Ténèbres, un clan trahi, décimé, réduit en cendres par l’alliance impitoyable entre la Nation du Sang et les Ninjas des Roches Noires.\n\nTrahi par les tiens, emprisonné, brisé…\nTu t’es échappé.\nEt maintenant… la vengeance commence.\n\n🗡️ Gameplay\n\nDéplace-toi avec les flèches directionnelles.\n\nLance des kunai avec la touche ESPACE.\n\nProtège-toi avec la flèche du bas pour regagner des points de vie.\n\nExplore des niveaux générés façon roguelike avec ennemis, pièges, et secrets.\n\nChaque mort est définitive… mais chaque tentative rend ton esprit plus affuté.\n\n⚔️ Objectif\n\nPour sauver l'héritage de ton clan, tu dois descendre dans les Mines Noires, affronter les forces corrompues qui rôdent dans l’ombre, et retrouver le Parchemin Sacré du Kin_Jitsu, un art martial antique que la Nation du Sang veut utiliser pour conquérir le monde.\n\nTu es le dernier héritier.\nLe dernier espoir.\nLe dernier dragon.\n\n🌸 Caractéristiques\n\nPixel art rétro inspiré des classiques 8-bit\n\nDifficulté old-school, exigeante mais juste\n\nEsthétique sombre & ambiance japonaise féodale\n\nEffets de combat rapides, shurikens, sorts et techniques secrètes\n\nSystème de progression roguelike\n\nHistoire profonde, vengeance et honneur brisé",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
